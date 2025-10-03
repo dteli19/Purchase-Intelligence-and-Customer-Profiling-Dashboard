@@ -35,6 +35,9 @@ The existing customer management approach used a **randomized engagement strateg
    - Designed **content strategies** tailored to the RFM segments.  
    - Automated **promotional messages & discounts** based on customer color codes.  
 
+## 🔄 Project Workflow
+![Vaxikart WorkFlow](vaxikart flow chart.png)
+
 ## 📈 Results
 - Provided the sales team with **customized strategies per customer** instead of randomized outreach.  
 - **Content strategy** aligned to RFM segments improved **HCP engagement by 25%**.  
