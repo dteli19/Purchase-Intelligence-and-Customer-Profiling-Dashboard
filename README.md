@@ -36,7 +36,7 @@ The existing customer management approach used a **randomized engagement strateg
    - Automated **promotional messages & discounts** based on customer color codes.  
 
 ## 🔄 Project Workflow
-![Vaxikart WorkFlow](vaxikart flow chart.png)
+![Vaxikart WorkFlow](Vaxikart flow chart.png)
 
 ## 📈 Results
 - Provided the sales team with **customized strategies per customer** instead of randomized outreach.  
