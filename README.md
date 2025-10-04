@@ -38,6 +38,14 @@ The existing customer management approach used a **randomized engagement strateg
 ## 🔄 Project Workflow
 ![Vaxikart WorkFlow](Vaxikart_flow_chart.png)
 
+## 📷 Dashboard Screenshots  
+
+<p align="center">
+  <img src="Vaxikart_Overview.png" alt="Overview Dashboard" width="30%"/>
+  <img src="Vaxikart_HCP Segmentation.png" alt="Segmentation Dashboard" width="30%"/>
+  <img src="Vaxikart_Campaign Analysis.png" alt="Campaign Dashboard" width="30%"/>
+</p>
+
 ## 📈 Results
 - Provided the sales team with **customized strategies per customer** instead of randomized outreach.  
 - **Content strategy** aligned to RFM segments improved **HCP engagement by 25%**.  
