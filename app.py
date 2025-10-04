@@ -29,7 +29,7 @@ personalization and no measurement of ROI.
 # ---------------------------------------------------
 st.header("❓ Problem Statement")
 st.markdown("""
-The client faced challenges with:
+The faced challenges were:
 - **Randomized strategy** for all HCPs with no customization.  
 - Lack of **segmentation or targeting**.  
 - No **ROI analysis** linking digital campaign engagement to purchase behavior.  
@@ -43,6 +43,7 @@ to improve uptake and engagement.
 # ---------------------------------------------------
 st.header("📊 About the Data")
 st.markdown("""
+A demo data is created for the purpose of showcasing the dashboard development via customer segmentation basis RFM and purchase behavior, along with incorporating campaign analysis to attribute sales per HCP post engagement.
 - **500 HCPs** across regions  
 - **2 Vaccine brands** (A & B)  
 - **3 years of order history** with purchase date, vaccine brand, and quantity  
@@ -91,7 +92,7 @@ with col1:
 
 with col2:
     st.subheader("HCP Segmentation")
-    st.image("Vaxikart_HCP_Segmentation.png", use_container_width=True)
+    st.image("Vaxikart_HCP Segmentation.png", use_container_width=True)
 
 st.subheader("Campaign Analysis")
-st.image("Vaxikart_Campaign_Analysis.png", use_container_width=True)
+st.image("Vaxikart_Campaign Analysis.png", use_container_width=True)
