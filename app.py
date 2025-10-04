@@ -84,15 +84,14 @@ st.markdown("""
 # ---------------------------------------------------
 st.header("📸 Dashboard Screenshots")
 
+st.subheader("Vaxikart Overview")
+st.image("Vaxikart_Overview.png", use_container_width=True)
+
 col1, col2 = st.columns(2)
 
 with col1:
-    st.subheader("Vaxikart Overview")
-    st.image("Vaxikart_Overview.png", use_container_width=True)
-
-with col2:
     st.subheader("HCP Segmentation")
     st.image("Vaxikart_HCP Segmentation.png", use_container_width=True)
-
-st.subheader("Campaign Analysis")
-st.image("Vaxikart_Campaign Analysis.png", use_container_width=True)
+with col2:
+    st.subheader("Campaign Analysis")
+    st.image("Vaxikart_Campaign Analysis.png", use_container_width=True)
