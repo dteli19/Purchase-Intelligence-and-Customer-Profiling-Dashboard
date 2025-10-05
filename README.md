@@ -4,6 +4,9 @@
 Vaxikart is a digital application that allows healthcare professionals (HCPs) to **order vaccines** directly from authorized providers.  
 The objective of this project was to build a data-driven strategy to optimize customer engagement and improve vaccine uptake by applying advanced **RFM segmentation, behavioral analytics, and ROI measurement of digital campaigns**.
 
+🔗 [Live Streamlit App](https://fg9rjtkknvjuekpohune7f.streamlit.app/)
+
+
 ## ❓ Problem Statement
 The existing customer management approach used a **randomized engagement strategy**, treating all HCPs the same.  
 - No **customization** in outreach.  
