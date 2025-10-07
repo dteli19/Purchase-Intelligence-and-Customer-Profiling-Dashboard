@@ -5,12 +5,12 @@ import streamlit as st
 # Page Config
 # ---------------------------------------------------
 st.set_page_config(
-    page_title="Vaxikart Dashboard Project",
-    page_icon="💉",
+    page_title="Purchase Intelligence Project",
+    page_icon="🎯👥",
     layout="wide"
 )
 
-st.title("💉 Vaxikart — Vaccine Ordering Insights Dashboard")
+st.title("🎯👥 Purchase Intelligence & Customer Profiling")
 
 # ---------------------------------------------------
 # Context
