@@ -1,4 +1,4 @@
-# 💉 Vaxikart — Camapign Analysis & Customer Segmentation Dashboard
+# 🎯👥 Purchase Intelligence and Customer Profiling Dashboard
 
 ## 📖 Overview
 Vaxikart is a digital application that allows healthcare professionals (HCPs) to **order vaccines** directly from authorized providers.  
